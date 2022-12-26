@@ -1,11 +1,12 @@
 # YOUTUBE CLONE
 
-- Using babel, nodemon, express
-  [babel](https://babeljs.io/setup#installation)
-  [nodemon](https://www.npmjs.com/package/nodemon)
-  [express](https://www.npmjs.com/package/express)
-  [morgan](https://www.npmjs.com/package/morgan)
-  [pug](https://www.npmjs.com/package/pug?activeTab=readme), [pug-doc](https://pugjs.org/api/getting-started.html)
+- Using
+
+  - [babel](https://babeljs.io/setup#installation)
+  - [nodemon](https://www.npmjs.com/package/nodemon)
+  - [express](https://www.npmjs.com/package/express)
+  - [morgan](https://www.npmjs.com/package/morgan)
+  - [pug](https://www.npmjs.com/package/pug?activeTab=readme), [pug-doc](https://pugjs.org/api/getting-started.html)
 
 - script
 
